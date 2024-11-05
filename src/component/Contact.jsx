@@ -5,10 +5,10 @@ import vector1 from "/assets/vector1.png"
 function Contact() {
   return (
     <div className="flex justify-center items-center text-white py-8 px-4">
-      <div className="grid bg-black w-[950px] max-w-5xl grid-cols-1 md:grid-cols-2 gap-8 p-6 md:p-8">
+      <div className="grid bg-black border-l-4 border-red-600 rounded-sm w-[950px] max-w-5xl grid-cols-1 md:grid-cols-2 gap-8 p-6 md:p-8">
         
         {/* Left Column: Form */}
-        <div className="px-4 md:px-6 border-l-4 border-red-600 rounded-sm">
+        <div className="px-4 md:px-6 ">
           <h1 className="text-2xl font-bold mb-6">Contact Us</h1>
           
           <input
@@ -38,7 +38,7 @@ function Contact() {
             <input
               type="submit"
               value="Send Message"
-              className="w-full md:w-32 border-2 border-red-500 py-2 rounded-full text-white font-semibold cursor-pointer hover:bg-red-600 transition-colors"
+              className="w-full md:w-32 border-2 border-red-500 px-2 py-2 rounded-full text-white font-semibold cursor-pointer hover:bg-red-600 transition-colors"
             />
           </div>
         </div>
