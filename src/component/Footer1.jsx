@@ -26,7 +26,7 @@ const Footer1 = () => {
           <a href="#faqs" className="hover:text-gray-300">FAQs</a>
         </nav>
       </div>
-      <div className="w-full text-white max-w-[1180px] flex flex-col md:flex-row justify-between mx-12 items-center py-5 border-t-2 border-gray-600">
+      <div className=" text-white max-w-[1180px] flex flex-col md:flex-row justify-between  items-center py-5 border-t-2 border-gray-600">
         {/* Social Icons */}
         <div className="flex md:ml-28 mr-20 md:mr-0 space-x-6 text-2xl items-center mb-4 md:mb-0">
           <FaFacebookF className="hover:text-gray-400 transition duration-300" />

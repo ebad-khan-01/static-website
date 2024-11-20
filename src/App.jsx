@@ -28,7 +28,7 @@ function App() {
         </div>
         <div className="mt-20">
 
-          {/* <Hero /> */}
+          <Hero />
         </div>
         <div className="mt-20">
 

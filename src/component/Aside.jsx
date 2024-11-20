@@ -16,7 +16,7 @@ function Aside() {
         </div>
 
       {/* Airdrop Details Section */}
-      <div className="space-y-4 md:space-y-6 w-full max-w-md border-l-2 border-red-600 pl-4 rounded-sm">
+      <div className="space-y-4 md:space-y-6 max-w-md border-l-2 border-red-600 pl-4 rounded-sm">
         <h1 className="text-lg md:text-xl lg:text-2xl font-bold text-red-500">Airdrop Details</h1>
         
         <div>

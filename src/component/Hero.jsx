@@ -54,7 +54,7 @@ function Hero() {
     </div>
 
     {/* Right Column - Tokenomics Information */}
-    <div className="w-full md:ml-8 lg:ml-36 mt-6 md:mt-10">
+    <div className=" md:ml-8 lg:ml-36 mt-6 md:mt-10">
       <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Tokenomics</h1>
       <p className="bg-red-500 px-2 py-1 rounded mb-2 inline-block">
         Total Supply: 1,000,000,000 JAVA tokens

@@ -57,7 +57,6 @@ function Box() {
           </div>
         </div>
       </div>
-
     </>
   )
 }

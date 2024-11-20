@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className="w-full max-w-[950px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-0 border-l-4 border-red-600 bg-black p-6 md:p-8 lg:p-10 text-white">
+    <div className="max-w-[950px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-0 border-l-4 border-red-600 bg-black p-6 md:p-8 lg:p-10 text-white">
       <div className="text-center md:text-left">
         <h1 className="text-xl md:text-2xl lg:text-3xl font-bold mb-4">
           Stay updated with us

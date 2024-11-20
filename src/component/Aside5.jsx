@@ -30,7 +30,7 @@ function Aside5() {
 
   {/* Responsive Image */}
   <div className='relative'>
-  <img src={vector1} alt="" className="absolute top-1/2 w-[200px] md:w-[308px] right-[50px] md:right-[100px] transform translate-x-1/2 -translate-y-1/2 z-20" />
+  <img src={vector1} alt="" className="absolute top-1/2 w-[200px] md:w-[307px] right-[50px] md:right-[100px] transform translate-x-1/2 -translate-y-1/2 z-20" />
   <div className='mt-16'>
     <img
       className='h-auto w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg object-cover'

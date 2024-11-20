@@ -4,8 +4,8 @@ import vector1 from "/assets/vector1.png"
 
 function Contact() {
   return (
-    <div className="flex justify-center items-center text-white py-8 px-4">
-      <div className="grid bg-black border-l-4 border-red-600 rounded-sm w-[950px] max-w-5xl grid-cols-1 md:grid-cols-2 gap-8 p-6 md:p-8">
+    <div className="flex justify-center items-center text-white py-8 ">
+      <div className="grid bg-black border-l-4 border-red-600 rounded-sm w-[900px] max-w-5xl grid-cols-1 md:grid-cols-2 gap-8 p-6 md:p-8">
         
         {/* Left Column: Form */}
         <div className="px-4 md:px-6 ">
@@ -66,7 +66,7 @@ function Contact() {
               <i className="fas fa-envelope"></i>
               <span>somebody@gmail.com</span>
             </div>
-          <img src={vector1} alt="" className='absolute top-[60%] md:w-[600px] md:h-[900px] right-[95px] md:right-[-23px] transform translate-x-1/2 -translate-y-1/2 z-20' />
+          <img src={vector1} alt="" className='absolute top-[60%] md:w-[600px] md:h-[900px] right-[125px] md:right-[-61px] transform translate-x-1/2 -translate-y-1/2 z-20' />
           </div>
         </div>
       </div>

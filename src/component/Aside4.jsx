@@ -10,13 +10,14 @@ function Aside4() {
     <div className="relative text-white">
       {/* Vector2 Image positioned on the left side */}
       <img
-        src={vector2}
-        alt="Vector Design"
-        className="absolute left-0 top-[60%] transform -translate-y-1/2  w-1/3 md:w-[40%] "
-      />
+  src={vector2}
+  alt="Vector Design"
+  className="absolute left-0 top-[60%] transform -translate-y-1/2 w-[500px] sm:w-[120px] md:w-[200px] lg:w-[40%]"
+/>
+
 
       {/* Content Section */}
-      <div className="relative z-10 flex flex-col items-center mt-20 md:mt-40 px-4">
+      <div className="relative z-10 flex flex-col items-center mt-20 md:mt-40 ">
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-10 w-full md:w-[550px] text-center">
           Our Team Member is ready to help our Clients!
         </h1>

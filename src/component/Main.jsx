@@ -5,7 +5,7 @@ import vector1 from "/assets/vector1.png";
 
 function Main() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-12 text-white items-center p-4 md:p-8">
+    <div className="grid grid-cols-1 md:grid-cols-12 text-white items-center md:p-8">
       {/* Left Column */}
       <div className="col-span-1 md:col-span-6 text-center md:text-left md:ml-28 ">
         <h1 className="text-red-600 text-xl md:text-2xl">Join the Future of Online</h1>
