@@ -6,7 +6,7 @@ function Aside() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-8 place-items-center py-10">
       {/* Airdrop Campaign Section - Text Section on the Left */}
-      <div className="text-white space-y-6 w-full max-w-lg md:ml-10 px-10 md:mx-0 ">
+      <div className="text-white space-y-6 w-full max-w-lg md:ml-10 md:mx-0 ">
         <div className='border-l-2 border-red-600 pl-4 h-30 rounded-sm'>
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Airdrop Campaign</h1>
         <p className="text-lg md:text-xl lg:text-2xl font-bold text-red-600">Token Sale Restrictions</p>
