@@ -10,7 +10,7 @@ import Footer1 from "./component/Footer1"
 import Header from "./component/Header"
 import Hero from "./component/Hero"
 import Main from "./component/Main"
-import Contact from "./component/contact"
+import Contact from "./component/Contact"
 
  
 
@@ -34,10 +34,11 @@ function App() {
 
           <Aside />
         </div>
-        <div className="mt-20">
 
+        <div className="mt-20">
         <Aside2/>
         </div>
+
         <div className="mt-16 md:mt-0">
 
           <Aside3/>
